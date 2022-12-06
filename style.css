@@ -1,8 +1,8 @@
 header a {
-    text-dekoration: none;
-    padding: 10px 0px;
-    bacgroung-color: hsl(108, 57%, 46%);
-    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: hsl(108, 57%, 46%);
+    border-radius: 25px;
     margin: auto;
 }
 
