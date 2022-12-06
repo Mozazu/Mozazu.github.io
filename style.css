@@ -13,3 +13,7 @@ header {
 body {
     margin: 0px;
 }
+
+main {
+    display: flex;
+}
